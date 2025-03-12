@@ -44,5 +44,10 @@ For inquiries about licensing, please open an [Issue](../../issues).
 ---
 ## תמונות מסך
 
+<img src="https://github.com/user-attachments/assets/9562f3ba-ae2d-416f-89ab-77fab7e82e82"height="300px"/>  
 
-![330195391-be0e32d7-db56-44ce-ba21-891e911c0cc4](https://github.com/user-attachments/assets/9562f3ba-ae2d-416f-89ab-77fab7e82e82)
+![1](https://github.com/user-attachments/assets/64f6bfe5-ab0d-499a-872d-987326f3fde2)
+
+![2](https://github.com/user-attachments/assets/f0252eac-7c55-42e6-b36a-11fa8cf34e05)
+
+![3](https://github.com/user-attachments/assets/c0c93661-d650-4c81-9e27-1d61dfdc1b37)
