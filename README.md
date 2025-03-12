@@ -45,3 +45,4 @@ For inquiries about licensing, please open an [Issue](../../issues).
 ## תמונות מסך
 
 
+![330195391-be0e32d7-db56-44ce-ba21-891e911c0cc4](https://github.com/user-attachments/assets/9562f3ba-ae2d-416f-89ab-77fab7e82e82)
